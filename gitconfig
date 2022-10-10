@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anastasia_rakh@hotmail.com
+	name = anastasia rakhimbabaeva
